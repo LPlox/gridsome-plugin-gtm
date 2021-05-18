@@ -19,10 +19,10 @@
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
-    "vue-gtm": "^2.0.0"
-  },
   "engines": {
     "node": ">=8"
+  },
+  "dependencies": {
+    "@gtm-support/vue2-gtm": "^1.0.0"
   }
 }
